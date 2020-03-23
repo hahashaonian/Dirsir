@@ -11,12 +11,6 @@
 
 开发环境：Eclipse Web服务器：Tomcat 数据库：MySQL
 
-主要功能设计
-![程序设计流程图](https://images.gitee.com/uploads/images/2020/0201/141922_e032904f_5486861.png "屏幕截图.png")
-
-![前台功能设计](https://images.gitee.com/uploads/images/2020/0201/141933_ef9f65a6_5486861.png "屏幕截图.png")
-
-![后台功能设计](https://images.gitee.com/uploads/images/2020/0201/141941_acaba1ab_5486861.png "屏幕截图.png")
 
 ### 后台运行效果
 
